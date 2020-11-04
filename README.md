@@ -1,4 +1,4 @@
-# Getting Started with Netflix App
+# :dart: Getting Started with Netflix App
 
 ## :octocat:
 Building Netflix from Scratch Using React (Custom Hooks, Context, Portals), Firebase, Firebase auth, Compound, normalize.css & Styled Components..!
